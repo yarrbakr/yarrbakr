@@ -30,5 +30,5 @@ I work with local businesses and service companies who need a professional web p
 
 ### Get In Touch
 
-📧 **abubakar@yourdomain.com**
+📧 **abubakarramzan21@gmail.com**
 💬 Available for projects — [send me a message](mailto:abubakar@yourdomain.com)
