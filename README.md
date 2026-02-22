@@ -12,8 +12,8 @@ I work with local businesses and service companies who need a professional web p
 
 | Project | Description | Live Demo |
 |---------|------------|-----------|
-| 🍽️ **Restaurant Website** | Modern restaurant site with menu, reservations & location | [View Live →](https://demo-restaurant-pk.netlify.app) |
-| 🏥 **Medical Clinic Website** | Professional clinic site with services & appointment booking | [View Live →](https://demo-clinic-pk.netlify.app) |
+| 🍽️ **Restaurant Website** | Modern restaurant site with menu, reservations & location | [View Live →](https://zaika-faisalabad.netlify.app/) |
+| 🏥 **Medical Clinic Website** | Professional clinic site with services & appointment booking | [View Live →](https://carepoint-clinic.netlify.app/) |
 | 🔧 **Home Service Company** | Trust-focused site for service businesses with area coverage | [View Live →](https://demo-homeservice.netlify.app) |
 | 🏠 **Real Estate Agent** | Personal brand site for agents with listings gallery | [View Live →](https://demo-realestate.netlify.app) |
 
