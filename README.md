@@ -1,34 +1,12 @@
-# Hi, I'm AbuBakar Ramzan
+Hi, I'm Abu Bakar Ramzan
+AI Engineer building production GenAI systems — RAG pipelines, agentic workflows, MCP servers, and LLM-integrated automation.
+Currently: AI Lead at IEEE Society Tech Team. Previously built a Digital FTE agent at iTex Solutions and ML pipelines at SDM (interpretdata).
+What I work on
 
-**I build fast, modern websites that help small businesses get found online and win more customers.**
+🤖 Agentic AI systems with Claude Code, n8n, custom MCP servers
+🔍 RAG pipelines for production chatbots (WhatsApp, Telegram)
+📊 ML pipelines with scikit-learn, TensorFlow, PyTorch
+⚙️ Automation & orchestration for real-world workflows
 
-I work with local businesses and service companies who need a professional web presence without the agency price tag. Every site I build is mobile-first, loads in under 3 seconds, and is designed to convert visitors into calls, messages, and bookings.
-
-🌐 [**View My Portfolio →**](https://abubakarramzan.netlify.app)
-
----
-
-### Featured Projects
-
-| Project | Description | Live Demo |
-|---------|------------|-----------|
-| 🍽️ **Restaurant Website** | Modern restaurant site with menu, reservations & location | [View Live →](https://zaika-faisalabad.netlify.app/) |
-| 🏥 **Medical Clinic Website** | Professional clinic site with services & appointment booking | [View Live →](https://carepoint-clinic.netlify.app/) |
-| 🔧 **Home Service Company** | Trust-focused site for service businesses with area coverage | [View Live →](https://profixhomeservices.netlify.app/) |
-| 🏠 **Real Estate Agent** | Personal brand site for agents with listings gallery | [View Live →](https://jessicapalmer.netlify.app/) |
-
----
-
-### What I Deliver
-
-- **3–5 page business websites** — clean, fast, mobile-responsive
-- **Live in 5–7 days** — from first conversation to published site
-- **SEO-ready** — proper meta tags, fast load times, optimized images
-- **Zero maintenance headaches** — modern static hosting, no WordPress to update
-
----
-
-### Get In Touch
-
-📧 **abubakarramzan21@gmail.com**
-💬 Available for projects — [send me a message](mailto:abubakar@yourdomain.com)
+🎓 Software Engineering @ University of Faisalabad | CGPA 3.78 |
+📧 abubakarramzan21@gmail.com
